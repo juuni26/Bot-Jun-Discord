@@ -5,4 +5,5 @@ Goal :
        - create remainder Bot  
        - Provide Free database connected to remainder time
        
-Command start with keyword : jun 
+Command start with keyword : jun   
+change your bot discord token in .env 
