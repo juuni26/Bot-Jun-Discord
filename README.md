@@ -2,7 +2,7 @@
 Discord bot 
 
 Goal :        
-       -create remainder    
-       - Provide database connected to remainder time
+       -create remainder Bot  
+       - Provide Free database connected to remainder time
        
 Command start with keyword : jun 
