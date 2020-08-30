@@ -1,7 +1,7 @@
 # Bot-Jun-Discord
 Discord bot 
 
-Goal : 
+Goal :        
        -create remainder    
        - Provide database connected to remainder time
        
