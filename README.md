@@ -1,9 +1,8 @@
 # Bot-Jun-Discord
 Discord bot 
 
-Goal :        
-       - create remainder Bot  
-       - Provide Free database connected to remainder time
+interacting with twitter api to tweets from discord.
+updating ...
        
 Command start with keyword : jun   
 change your bot discord token in .env 
