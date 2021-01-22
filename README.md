@@ -2,7 +2,5 @@
 Discord bot 
 
 interacting with twitter api to tweets from discord.
-updating ...
+updating soon...
        
-Command start with keyword : jun   
-change your bot discord token in .env 
